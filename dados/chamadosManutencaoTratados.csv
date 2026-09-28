@@ -1,0 +1,501 @@
+﻿idChamado,dataAbertura,unidade,equipamento,tipoManutencao,prioridade,status,tempoAtendimentoHoras,tempoResolucaoHoras,tecnico,categoriaProblema,custo,mes,numeroMes
+1,2026-03-31,Porto Alegre,Equioamento 026,Preditiva,Crítica,Concluído,7.92,43.71,Técnico 05,Mecânica,2550.33,Março,3
+2,2026-08-14,Canoas,Equioamento 003,Preditiva,Alta,Concluído,7.7,36.64,Técnico 05,Mecânica,2536.43,Agosto,8
+3,2026-02-02,Porto Alegre,Equioamento 023,Preventiva,Crítica,Em andamento,10.17,40.1,Técnico 05,Hidráulica,917.32,Fevereiro,2
+4,2026-04-06,Gravataí,Equioamento 041,Corretiva,Baixa,Em andamento,5.42,50.37,Técnico 02,Eletrônica,2551.3,Abril,4
+5,2026-02-06,Porto Alegre,Equioamento 060,Preditiva,Baixa,Em andamento,7.23,40.82,Técnico 04,Estrutural,1376.99,Fevereiro,2
+6,2026-01-05,Gravataí,Equioamento 060,Preventiva,Crítica,Concluído,9.57,32.48,Técnico 02,Elétrica,1663.78,Janeiro,1
+7,2026-05-23,Alvorada,Equioamento 079,Corretiva,Alta,Concluído,6.6,40.71,Técnico 01,Eletrônica,219.77,Maio,5
+8,2026-09-17,Guaíba,Equioamento 018,Preventiva,Baixa,Concluído,1.3,3.74,Técnico 01,Eletrônica,2525.66,Setembro,9
+9,2026-07-11,Porto Alegre,Equioamento 017,Preventiva,Média,Pendente,10.07,47.5,Técnico 03,Mecânica,1705.8,Julho,7
+10,2026-07-27,Guaíba,Equioamento 005,Preventiva,Alta,Pendente,11.23,19.17,Técnico 03,Elétrica,2744.72,Julho,7
+11,2026-04-09,Porto Alegre,Equioamento 029,Preventiva,Alta,Pendente,4.26,14.87,Técnico 02,Eletrônica,1188.39,Abril,4
+12,2026-04-15,Porto Alegre,Equioamento 053,Preditiva,Crítica,Em andamento,11.83,57.21,Técnico 05,Hidráulica,1878.28,Abril,4
+13,2026-07-28,Porto Alegre,Equioamento 095,Preventiva,Baixa,Pendente,11.04,37.05,Técnico 04,Estrutural,1703.51,Julho,7
+14,2026-01-28,Gravataí,Equioamento 048,Corretiva,Crítica,Concluído,4.53,8.21,Técnico 04,Estrutural,724.07,Janeiro,1
+15,2026-01-27,Guaíba,Equioamento 010,Corretiva,Média,Em andamento,8.78,46.66,Técnico 04,Eletrônica,2205.49,Janeiro,1
+16,2026-03-02,Canoas,Equioamento 035,Preventiva,Crítica,Pendente,5.35,28.7,Técnico 04,Hidráulica,2974.35,Março,3
+17,2026-01-21,Porto Alegre,Equioamento 025,Preventiva,Média,Pendente,11.68,32.73,Técnico 01,Estrutural,1142.45,Janeiro,1
+18,2026-06-12,Gravataí,Equioamento 020,Corretiva,Média,Em andamento,10.28,56.61,Técnico 02,Mecânica,503.4,Junho,6
+19,2026-05-29,Porto Alegre,Equioamento 064,Corretiva,Baixa,Pendente,2.53,30.2,Técnico 04,Estrutural,2500.44,Maio,5
+20,2026-04-28,Gravataí,Equioamento 050,Corretiva,Crítica,Pendente,2.6,50.13,Técnico 02,Eletrônica,269.12,Abril,4
+21,2026-03-07,Porto Alegre,Equioamento 018,Preventiva,Crítica,Em andamento,6.34,14.9,Técnico 01,Estrutural,1146.77,Março,3
+22,2026-03-17,Guaíba,Equioamento 003,Preditiva,Média,Concluído,0.67,21.74,Técnico 02,Estrutural,1970.8,Março,3
+23,2026-01-25,Canoas,Equioamento 029,Corretiva,Baixa,Pendente,6.67,52.55,Técnico 04,Eletrônica,1319.96,Janeiro,1
+24,2026-06-06,Alvorada,Equioamento 070,Preditiva,Média,Pendente,4.42,50.02,Técnico 01,Elétrica,450.11,Junho,6
+25,2026-03-13,Canoas,Equioamento 059,Preditiva,Alta,Em andamento,6.41,38.91,Técnico 03,Eletrônica,1695.97,Março,3
+26,2026-05-04,Guaíba,Equioamento 054,Preditiva,Média,Concluído,11.16,25.2,Técnico 05,Eletrônica,2964.18,Maio,5
+27,2026-07-08,Gravataí,Equioamento 034,Corretiva,Crítica,Concluído,4.23,25.57,Técnico 02,Eletrônica,2404.49,Julho,7
+28,2026-01-23,Canoas,Equioamento 005,Preditiva,Crítica,Concluído,7.98,24.81,Técnico 05,Mecânica,2029.88,Janeiro,1
+29,2026-04-04,Porto Alegre,Equioamento 023,Corretiva,Alta,Concluído,5.15,49.42,Técnico 02,Estrutural,695.59,Abril,4
+30,2026-01-20,Gravataí,Equioamento 055,Preventiva,Crítica,Concluído,10.78,49.19,Técnico 05,Hidráulica,2346.08,Janeiro,1
+31,2026-01-18,Alvorada,Equioamento 043,Preventiva,Alta,Concluído,6.85,14.77,Técnico 05,Elétrica,2801.89,Janeiro,1
+32,2026-08-05,Guaíba,Equioamento 042,Preditiva,Alta,Em andamento,4.13,38.26,Técnico 03,Hidráulica,1550.5,Agosto,8
+33,2026-05-08,Guaíba,Equioamento 076,Corretiva,Alta,Concluído,7.27,15.8,Técnico 03,Elétrica,1702.48,Maio,5
+34,2026-04-22,Porto Alegre,Equioamento 011,Preventiva,Crítica,Concluído,1.0,17.27,Técnico 03,Elétrica,1560.79,Abril,4
+35,2026-05-19,Canoas,Equioamento 011,Preventiva,Média,Pendente,7.92,36.33,Técnico 05,Eletrônica,2022.06,Maio,5
+36,2026-02-14,Alvorada,Equioamento 058,Corretiva,Alta,Em andamento,1.26,8.29,Técnico 03,Eletrônica,2285.41,Fevereiro,2
+37,2026-09-16,Canoas,Equioamento 002,Preventiva,Média,Em andamento,11.27,35.98,Técnico 05,Hidráulica,1001.24,Setembro,9
+38,2026-09-08,Gravataí,Equioamento 011,Preventiva,Média,Concluído,5.57,14.28,Técnico 03,Mecânica,2146.15,Setembro,9
+39,2026-03-03,Guaíba,Equioamento 088,Corretiva,Média,Pendente,0.67,18.7,Técnico 04,Mecânica,1488.84,Março,3
+40,2026-07-12,Canoas,Equioamento 074,Corretiva,Crítica,Em andamento,6.99,40.24,Técnico 02,Estrutural,1852.38,Julho,7
+41,2026-05-08,Gravataí,Equioamento 084,Preditiva,Alta,Em andamento,6.52,49.07,Técnico 05,Hidráulica,1108.45,Maio,5
+42,2026-07-09,Porto Alegre,Equioamento 065,Preventiva,Alta,Em andamento,2.28,49.2,Técnico 04,Estrutural,2923.18,Julho,7
+43,2026-06-02,Porto Alegre,Equioamento 026,Preventiva,Média,Pendente,6.08,7.23,Técnico 05,Estrutural,1326.0,Junho,6
+44,2026-06-14,Alvorada,Equioamento 076,Preditiva,Baixa,Concluído,2.29,48.93,Técnico 02,Hidráulica,2625.96,Junho,6
+45,2026-07-15,Gravataí,Equioamento 076,Preventiva,Média,Pendente,6.77,32.48,Técnico 05,Hidráulica,2872.14,Julho,7
+46,2026-08-05,Alvorada,Equioamento 016,Preditiva,Média,Em andamento,2.73,10.93,Técnico 02,Mecânica,604.75,Agosto,8
+47,2026-09-03,Canoas,Equioamento 026,Preditiva,Baixa,Pendente,3.02,4.35,Técnico 04,Elétrica,998.77,Setembro,9
+48,2026-02-11,Gravataí,Equioamento 009,Preventiva,Baixa,Em andamento,4.82,13.32,Técnico 04,Elétrica,559.43,Fevereiro,2
+49,2026-04-09,Alvorada,Equioamento 022,Corretiva,Baixa,Concluído,2.44,48.82,Técnico 05,Eletrônica,2718.1,Abril,4
+50,2026-08-24,Gravataí,Equioamento 054,Preventiva,Crítica,Concluído,3.92,26.43,Técnico 02,Hidráulica,638.66,Agosto,8
+51,2026-07-10,Guaíba,Equioamento 100,Preventiva,Alta,Em andamento,1.04,12.28,Técnico 02,Elétrica,1166.39,Julho,7
+52,2026-05-09,Canoas,Equioamento 090,Preventiva,Baixa,Concluído,11.38,14.98,Técnico 03,Elétrica,644.1,Maio,5
+53,2026-07-10,Gravataí,Equioamento 099,Preventiva,Média,Pendente,0.54,41.48,Técnico 01,Eletrônica,544.02,Julho,7
+54,2026-07-15,Canoas,Equioamento 074,Corretiva,Crítica,Concluído,10.61,50.01,Técnico 03,Hidráulica,2483.62,Julho,7
+55,2026-03-27,Porto Alegre,Equioamento 038,Corretiva,Crítica,Em andamento,10.12,43.11,Técnico 01,Estrutural,681.57,Março,3
+56,2026-02-06,Porto Alegre,Equioamento 014,Preventiva,Alta,Pendente,2.22,19.48,Técnico 04,Mecânica,1927.69,Fevereiro,2
+57,2026-04-10,Alvorada,Equioamento 048,Corretiva,Crítica,Em andamento,4.85,19.19,Técnico 04,Eletrônica,1678.97,Abril,4
+58,2026-09-17,Canoas,Equioamento 047,Corretiva,Média,Pendente,5.6,7.2,Técnico 02,Hidráulica,790.8,Setembro,9
+59,2026-02-20,Porto Alegre,Equioamento 040,Preditiva,Alta,Pendente,11.12,55.29,Técnico 01,Mecânica,137.29,Fevereiro,2
+60,2026-03-18,Gravataí,Equioamento 078,Corretiva,Alta,Concluído,7.15,33.1,Técnico 05,Elétrica,141.77,Março,3
+61,2026-05-26,Alvorada,Equioamento 054,Preventiva,Crítica,Em andamento,3.47,33.94,Técnico 04,Mecânica,2730.9,Maio,5
+62,2026-06-11,Alvorada,Equioamento 044,Corretiva,Alta,Em andamento,2.46,14.14,Técnico 05,Estrutural,831.61,Junho,6
+63,2026-09-07,Guaíba,Equioamento 050,Preditiva,Baixa,Pendente,10.01,35.54,Técnico 05,Estrutural,462.34,Setembro,9
+64,2026-01-08,Gravataí,Equioamento 041,Corretiva,Baixa,Pendente,2.97,37.79,Técnico 04,Elétrica,826.83,Janeiro,1
+65,2026-07-30,Gravataí,Equioamento 037,Preditiva,Média,Pendente,2.22,14.86,Técnico 02,Elétrica,832.85,Julho,7
+66,2026-03-13,Alvorada,Equioamento 027,Preditiva,Alta,Concluído,4.05,18.71,Técnico 03,Eletrônica,105.52,Março,3
+67,2026-05-01,Canoas,Equioamento 004,Preventiva,Alta,Pendente,1.03,46.84,Técnico 03,Estrutural,661.72,Maio,5
+68,2026-01-21,Porto Alegre,Equioamento 021,Corretiva,Alta,Em andamento,6.83,43.59,Técnico 02,Eletrônica,1070.63,Janeiro,1
+69,2026-01-01,Alvorada,Equioamento 016,Preventiva,Baixa,Pendente,11.5,36.25,Técnico 02,Estrutural,109.72,Janeiro,1
+70,2026-06-05,Guaíba,Equioamento 053,Preventiva,Alta,Concluído,3.31,9.03,Técnico 04,Hidráulica,1682.93,Junho,6
+71,2026-07-27,Canoas,Equioamento 090,Preditiva,Baixa,Pendente,3.22,24.98,Técnico 01,Mecânica,1554.21,Julho,7
+72,2026-01-19,Alvorada,Equioamento 070,Corretiva,Baixa,Em andamento,7.15,15.95,Técnico 05,Eletrônica,2813.85,Janeiro,1
+73,2026-02-04,Porto Alegre,Equioamento 070,Corretiva,Baixa,Concluído,0.63,13.41,Técnico 03,Elétrica,391.94,Fevereiro,2
+74,2026-07-26,Canoas,Equioamento 096,Preditiva,Crítica,Concluído,4.41,10.39,Técnico 01,Mecânica,322.75,Julho,7
+75,2026-04-19,Porto Alegre,Equioamento 086,Corretiva,Crítica,Concluído,6.0,10.05,Técnico 01,Eletrônica,2399.91,Abril,4
+76,2026-01-30,Alvorada,Equioamento 089,Corretiva,Média,Concluído,0.53,14.04,Técnico 01,Elétrica,1506.99,Janeiro,1
+77,2026-03-29,Alvorada,Equioamento 066,Preventiva,Média,Pendente,3.37,25.95,Técnico 03,Elétrica,837.45,Março,3
+78,2026-03-14,Alvorada,Equioamento 058,Preditiva,Crítica,Concluído,2.46,17.23,Técnico 04,Estrutural,716.99,Março,3
+79,2026-04-07,Porto Alegre,Equioamento 002,Preditiva,Crítica,Em andamento,3.0,20.89,Técnico 02,Eletrônica,774.86,Abril,4
+80,2026-07-13,Guaíba,Equioamento 093,Corretiva,Baixa,Concluído,5.35,12.22,Técnico 01,Mecânica,690.14,Julho,7
+81,2026-05-25,Guaíba,Equioamento 084,Preditiva,Alta,Pendente,4.85,29.84,Técnico 02,Eletrônica,2214.96,Maio,5
+82,2026-05-06,Gravataí,Equioamento 087,Corretiva,Baixa,Pendente,1.56,14.13,Técnico 04,Elétrica,901.45,Maio,5
+83,2026-03-02,Porto Alegre,Equioamento 072,Corretiva,Média,Em andamento,0.73,8.89,Técnico 03,Elétrica,2901.59,Março,3
+84,2026-05-16,Alvorada,Equioamento 070,Corretiva,Média,Em andamento,0.55,16.69,Técnico 02,Hidráulica,583.37,Maio,5
+85,2026-08-06,Alvorada,Equioamento 039,Preditiva,Baixa,Pendente,7.12,51.08,Técnico 03,Mecânica,1279.77,Agosto,8
+86,2026-05-11,Alvorada,Equioamento 042,Preditiva,Alta,Pendente,11.85,29.2,Técnico 02,Hidráulica,2332.23,Maio,5
+87,2026-03-04,Alvorada,Equioamento 097,Corretiva,Crítica,Pendente,2.49,7.04,Técnico 01,Mecânica,1451.87,Março,3
+88,2026-08-21,Gravataí,Equioamento 012,Preditiva,Média,Concluído,5.44,8.7,Técnico 02,Elétrica,1585.12,Agosto,8
+89,2026-02-16,Porto Alegre,Equioamento 087,Preditiva,Crítica,Pendente,10.1,12.27,Técnico 01,Estrutural,1801.48,Fevereiro,2
+90,2026-02-15,Canoas,Equioamento 048,Preventiva,Média,Pendente,5.5,7.89,Técnico 04,Estrutural,738.78,Fevereiro,2
+91,2026-05-15,Canoas,Equioamento 014,Corretiva,Alta,Concluído,9.89,22.65,Técnico 01,Hidráulica,315.51,Maio,5
+92,2026-09-02,Gravataí,Equioamento 009,Preditiva,Baixa,Pendente,6.7,20.94,Técnico 02,Hidráulica,2246.31,Setembro,9
+93,2026-09-19,Alvorada,Equioamento 021,Preventiva,Baixa,Concluído,8.73,52.9,Técnico 05,Elétrica,225.86,Setembro,9
+94,2026-08-12,Canoas,Equioamento 033,Preditiva,Crítica,Em andamento,3.16,43.87,Técnico 01,Eletrônica,1062.07,Agosto,8
+95,2026-05-30,Guaíba,Equioamento 054,Preventiva,Alta,Em andamento,7.17,16.35,Técnico 05,Eletrônica,1757.41,Maio,5
+96,2026-09-18,Alvorada,Equioamento 040,Preditiva,Baixa,Concluído,3.51,29.55,Técnico 04,Elétrica,2946.91,Setembro,9
+97,2026-01-23,Alvorada,Equioamento 045,Corretiva,Média,Concluído,4.86,50.91,Técnico 05,Estrutural,2583.06,Janeiro,1
+98,2026-08-04,Gravataí,Equioamento 030,Preditiva,Baixa,Concluído,3.99,47.03,Técnico 03,Eletrônica,701.04,Agosto,8
+99,2026-02-09,Alvorada,Equioamento 064,Preventiva,Alta,Pendente,2.67,13.52,Técnico 04,Elétrica,2379.63,Fevereiro,2
+100,2026-07-03,Guaíba,Equioamento 015,Corretiva,Crítica,Em andamento,5.37,27.61,Técnico 04,Eletrônica,2453.49,Julho,7
+101,2026-07-14,Alvorada,Equioamento 050,Preventiva,Crítica,Pendente,5.94,11.78,Técnico 02,Estrutural,710.19,Julho,7
+102,2026-07-06,Canoas,Equioamento 022,Preditiva,Baixa,Concluído,8.58,20.9,Técnico 04,Elétrica,2649.68,Julho,7
+103,2026-02-21,Gravataí,Equioamento 033,Corretiva,Média,Concluído,11.06,32.52,Técnico 05,Hidráulica,1603.54,Fevereiro,2
+104,2026-06-29,Gravataí,Equioamento 053,Corretiva,Alta,Concluído,2.95,44.41,Técnico 04,Mecânica,1296.54,Junho,6
+105,2026-03-23,Porto Alegre,Equioamento 078,Preditiva,Baixa,Concluído,3.75,25.98,Técnico 05,Hidráulica,279.23,Março,3
+106,2026-07-11,Guaíba,Equioamento 056,Preventiva,Baixa,Em andamento,4.79,19.87,Técnico 04,Estrutural,1521.58,Julho,7
+107,2026-06-19,Porto Alegre,Equioamento 022,Corretiva,Baixa,Concluído,3.52,8.69,Técnico 03,Hidráulica,1332.54,Junho,6
+108,2026-08-02,Guaíba,Equioamento 081,Preditiva,Baixa,Concluído,0.64,16.83,Técnico 05,Mecânica,2055.94,Agosto,8
+109,2026-03-01,Guaíba,Equioamento 044,Preditiva,Média,Concluído,9.73,19.14,Técnico 02,Eletrônica,1739.71,Março,3
+110,2026-06-29,Canoas,Equioamento 073,Preditiva,Crítica,Concluído,10.05,49.43,Técnico 04,Mecânica,684.51,Junho,6
+111,2026-06-04,Porto Alegre,Equioamento 008,Preditiva,Média,Em andamento,3.24,12.55,Técnico 01,Elétrica,665.7,Junho,6
+112,2026-07-12,Guaíba,Equioamento 035,Corretiva,Média,Pendente,4.56,51.85,Técnico 03,Mecânica,2828.17,Julho,7
+113,2026-08-31,Canoas,Equioamento 015,Preventiva,Média,Pendente,2.03,18.87,Técnico 02,Mecânica,1453.91,Agosto,8
+114,2026-03-08,Alvorada,Equioamento 062,Preventiva,Crítica,Pendente,0.87,31.95,Técnico 04,Eletrônica,2030.13,Março,3
+115,2026-07-08,Porto Alegre,Equioamento 078,Corretiva,Baixa,Em andamento,1.46,37.98,Técnico 03,Elétrica,1370.55,Julho,7
+116,2026-02-19,Gravataí,Equioamento 058,Corretiva,Alta,Concluído,10.64,18.77,Técnico 04,Estrutural,1170.15,Fevereiro,2
+117,2026-08-28,Porto Alegre,Equioamento 080,Preventiva,Alta,Em andamento,1.92,35.28,Técnico 03,Estrutural,1757.5,Agosto,8
+118,2026-07-03,Gravataí,Equioamento 031,Corretiva,Média,Concluído,3.44,42.9,Técnico 03,Eletrônica,556.15,Julho,7
+119,2026-02-07,Canoas,Equioamento 006,Preditiva,Baixa,Em andamento,4.48,30.87,Técnico 01,Estrutural,2918.62,Fevereiro,2
+120,2026-02-01,Canoas,Equioamento 048,Corretiva,Média,Em andamento,11.57,22.21,Técnico 03,Estrutural,2765.72,Fevereiro,2
+121,2026-09-10,Gravataí,Equioamento 052,Corretiva,Baixa,Em andamento,3.98,13.92,Técnico 04,Mecânica,1170.3,Setembro,9
+122,2026-07-13,Porto Alegre,Equioamento 037,Preventiva,Baixa,Pendente,6.47,42.31,Técnico 04,Eletrônica,2728.48,Julho,7
+123,2026-01-15,Porto Alegre,Equioamento 096,Preventiva,Alta,Pendente,1.52,26.1,Técnico 01,Elétrica,2231.73,Janeiro,1
+124,2026-02-12,Gravataí,Equioamento 066,Preventiva,Alta,Em andamento,2.17,24.77,Técnico 03,Estrutural,603.78,Fevereiro,2
+125,2026-02-20,Canoas,Equioamento 091,Preditiva,Crítica,Em andamento,5.21,51.59,Técnico 02,Eletrônica,2897.89,Fevereiro,2
+126,2026-05-07,Canoas,Equioamento 020,Preditiva,Baixa,Pendente,2.79,31.43,Técnico 02,Mecânica,1110.68,Maio,5
+127,2026-04-16,Guaíba,Equioamento 076,Preditiva,Baixa,Em andamento,1.07,21.46,Técnico 04,Elétrica,258.36,Abril,4
+128,2026-03-22,Gravataí,Equioamento 067,Corretiva,Baixa,Em andamento,5.11,11.58,Técnico 01,Elétrica,1764.78,Março,3
+129,2026-07-12,Porto Alegre,Equioamento 071,Preventiva,Alta,Em andamento,1.33,37.32,Técnico 05,Estrutural,534.87,Julho,7
+130,2026-07-21,Alvorada,Equioamento 056,Preventiva,Alta,Em andamento,11.0,30.97,Técnico 03,Eletrônica,2266.38,Julho,7
+131,2026-01-17,Porto Alegre,Equioamento 019,Corretiva,Alta,Pendente,7.16,8.18,Técnico 05,Hidráulica,2495.22,Janeiro,1
+132,2026-08-08,Guaíba,Equioamento 058,Corretiva,Crítica,Pendente,5.74,35.97,Técnico 05,Hidráulica,503.21,Agosto,8
+133,2026-05-02,Guaíba,Equioamento 091,Preditiva,Alta,Concluído,4.69,28.41,Técnico 04,Estrutural,1294.47,Maio,5
+134,2026-01-11,Porto Alegre,Equioamento 083,Corretiva,Média,Em andamento,2.52,25.79,Técnico 03,Mecânica,853.69,Janeiro,1
+135,2026-02-25,Alvorada,Equioamento 057,Preditiva,Média,Em andamento,11.99,42.67,Técnico 04,Eletrônica,1680.26,Fevereiro,2
+136,2026-01-14,Alvorada,Equioamento 059,Corretiva,Baixa,Pendente,3.09,24.84,Técnico 01,Estrutural,2081.37,Janeiro,1
+137,2026-01-07,Porto Alegre,Equioamento 095,Preventiva,Média,Concluído,11.44,26.31,Técnico 01,Eletrônica,1889.97,Janeiro,1
+138,2026-07-28,Alvorada,Equioamento 076,Preditiva,Crítica,Em andamento,10.66,14.63,Técnico 04,Mecânica,2913.68,Julho,7
+139,2026-02-03,Canoas,Equioamento 059,Preventiva,Crítica,Pendente,6.84,50.14,Técnico 02,Mecânica,2911.97,Fevereiro,2
+140,2026-08-30,Guaíba,Equioamento 100,Corretiva,Alta,Pendente,9.73,38.2,Técnico 03,Estrutural,809.34,Agosto,8
+141,2026-08-17,Alvorada,Equioamento 034,Corretiva,Crítica,Em andamento,4.92,11.7,Técnico 01,Eletrônica,2379.75,Agosto,8
+142,2026-06-22,Guaíba,Equioamento 009,Preditiva,Crítica,Pendente,2.12,25.68,Técnico 01,Eletrônica,269.76,Junho,6
+143,2026-04-23,Canoas,Equioamento 100,Preventiva,Crítica,Concluído,7.55,9.31,Técnico 04,Eletrônica,1452.93,Abril,4
+144,2026-04-22,Porto Alegre,Equioamento 061,Corretiva,Crítica,Concluído,7.87,33.48,Técnico 02,Estrutural,471.84,Abril,4
+145,2026-01-08,Alvorada,Equioamento 075,Preventiva,Alta,Em andamento,3.34,48.4,Técnico 02,Elétrica,1825.26,Janeiro,1
+146,2026-06-06,Guaíba,Equioamento 064,Preditiva,Alta,Em andamento,9.9,24.17,Técnico 01,Elétrica,2005.07,Junho,6
+147,2026-08-30,Porto Alegre,Equioamento 062,Preventiva,Baixa,Em andamento,5.33,30.49,Técnico 03,Eletrônica,2083.06,Agosto,8
+148,2026-08-19,Canoas,Equioamento 026,Corretiva,Média,Em andamento,9.7,21.64,Técnico 05,Estrutural,2034.88,Agosto,8
+149,2026-04-28,Gravataí,Equioamento 087,Preventiva,Média,Pendente,1.43,6.45,Técnico 04,Elétrica,2158.3,Abril,4
+150,2026-06-29,Porto Alegre,Equioamento 025,Corretiva,Crítica,Em andamento,9.94,19.21,Técnico 04,Estrutural,2989.78,Junho,6
+151,2026-04-18,Canoas,Equioamento 079,Preditiva,Média,Pendente,5.33,43.93,Técnico 01,Mecânica,2233.6,Abril,4
+152,2026-03-07,Canoas,Equioamento 016,Preventiva,Baixa,Pendente,8.54,39.64,Técnico 01,Mecânica,619.94,Março,3
+153,2026-08-26,Alvorada,Equioamento 039,Corretiva,Crítica,Pendente,1.78,31.35,Técnico 01,Mecânica,2663.4,Agosto,8
+154,2026-03-12,Guaíba,Equioamento 080,Preditiva,Média,Em andamento,5.05,44.13,Técnico 01,Mecânica,690.0,Março,3
+155,2026-08-17,Porto Alegre,Equioamento 100,Preventiva,Baixa,Concluído,0.66,11.08,Técnico 05,Mecânica,576.21,Agosto,8
+156,2026-07-02,Canoas,Equioamento 084,Preditiva,Alta,Pendente,9.02,25.06,Técnico 03,Hidráulica,202.84,Julho,7
+157,2026-08-11,Gravataí,Equioamento 004,Corretiva,Crítica,Pendente,7.7,12.98,Técnico 02,Estrutural,1214.75,Agosto,8
+158,2026-08-10,Alvorada,Equioamento 019,Corretiva,Média,Concluído,2.98,30.34,Técnico 02,Eletrônica,268.33,Agosto,8
+159,2026-01-22,Guaíba,Equioamento 093,Corretiva,Baixa,Pendente,10.12,17.03,Técnico 04,Estrutural,2182.56,Janeiro,1
+160,2026-08-16,Porto Alegre,Equioamento 010,Preditiva,Baixa,Concluído,10.91,25.99,Técnico 03,Elétrica,779.39,Agosto,8
+161,2026-04-02,Gravataí,Equioamento 091,Corretiva,Crítica,Em andamento,4.64,14.04,Técnico 02,Hidráulica,971.15,Abril,4
+162,2026-05-05,Gravataí,Equioamento 086,Preditiva,Crítica,Concluído,1.47,15.33,Técnico 02,Estrutural,2726.7,Maio,5
+163,2026-06-01,Porto Alegre,Equioamento 094,Corretiva,Alta,Concluído,11.67,40.38,Técnico 05,Eletrônica,2876.79,Junho,6
+164,2026-08-29,Porto Alegre,Equioamento 073,Preventiva,Crítica,Concluído,0.68,8.53,Técnico 05,Hidráulica,2117.55,Agosto,8
+165,2026-01-20,Guaíba,Equioamento 033,Preditiva,Baixa,Pendente,5.62,23.05,Técnico 04,Mecânica,172.37,Janeiro,1
+166,2026-05-18,Gravataí,Equioamento 098,Corretiva,Média,Pendente,8.83,15.64,Técnico 02,Hidráulica,2863.02,Maio,5
+167,2026-05-10,Gravataí,Equioamento 092,Preditiva,Alta,Em andamento,10.99,28.56,Técnico 04,Eletrônica,1235.84,Maio,5
+168,2026-01-04,Guaíba,Equioamento 072,Corretiva,Baixa,Em andamento,8.66,39.97,Técnico 02,Hidráulica,1145.95,Janeiro,1
+169,2026-03-11,Guaíba,Equioamento 077,Corretiva,Média,Pendente,0.6,47.39,Técnico 03,Eletrônica,1195.15,Março,3
+170,2026-08-13,Guaíba,Equioamento 088,Corretiva,Alta,Pendente,1.09,15.58,Técnico 02,Estrutural,423.66,Agosto,8
+171,2026-06-10,Porto Alegre,Equioamento 097,Corretiva,Média,Pendente,6.5,14.75,Técnico 04,Elétrica,1142.0,Junho,6
+172,2026-04-21,Guaíba,Equioamento 089,Preditiva,Crítica,Concluído,1.21,47.81,Técnico 05,Eletrônica,2816.33,Abril,4
+173,2026-02-22,Guaíba,Equioamento 047,Corretiva,Média,Pendente,3.88,14.08,Técnico 04,Mecânica,1606.22,Fevereiro,2
+174,2026-07-17,Guaíba,Equioamento 020,Preventiva,Crítica,Pendente,3.08,8.5,Técnico 04,Elétrica,802.53,Julho,7
+175,2026-03-29,Gravataí,Equioamento 073,Preventiva,Média,Pendente,10.62,20.44,Técnico 01,Estrutural,739.29,Março,3
+176,2026-03-10,Alvorada,Equioamento 001,Preditiva,Baixa,Concluído,8.07,47.9,Técnico 05,Elétrica,2505.84,Março,3
+177,2026-09-13,Guaíba,Equioamento 060,Corretiva,Alta,Pendente,6.98,41.12,Técnico 03,Eletrônica,1904.84,Setembro,9
+178,2026-01-24,Gravataí,Equioamento 023,Corretiva,Alta,Em andamento,2.52,25.53,Técnico 01,Estrutural,1424.55,Janeiro,1
+179,2026-07-06,Gravataí,Equioamento 064,Preditiva,Baixa,Concluído,9.46,16.73,Técnico 02,Eletrônica,2302.61,Julho,7
+180,2026-03-23,Canoas,Equioamento 055,Corretiva,Crítica,Pendente,1.42,36.74,Técnico 03,Elétrica,2713.39,Março,3
+181,2026-06-24,Canoas,Equioamento 047,Preventiva,Baixa,Em andamento,5.19,9.95,Técnico 02,Mecânica,1509.54,Junho,6
+182,2026-07-26,Porto Alegre,Equioamento 093,Preditiva,Alta,Concluído,0.67,41.22,Técnico 01,Mecânica,2151.43,Julho,7
+183,2026-02-05,Porto Alegre,Equioamento 041,Preditiva,Alta,Em andamento,9.34,28.42,Técnico 01,Estrutural,939.6,Fevereiro,2
+184,2026-06-24,Porto Alegre,Equioamento 046,Preditiva,Alta,Em andamento,10.74,31.08,Técnico 02,Eletrônica,1495.31,Junho,6
+185,2026-09-18,Guaíba,Equioamento 056,Preventiva,Crítica,Em andamento,1.38,43.75,Técnico 01,Estrutural,1126.38,Setembro,9
+186,2026-05-22,Alvorada,Equioamento 056,Preditiva,Crítica,Em andamento,4.07,8.01,Técnico 01,Elétrica,1563.47,Maio,5
+187,2026-05-02,Canoas,Equioamento 033,Preventiva,Crítica,Concluído,2.54,29.68,Técnico 04,Mecânica,678.39,Maio,5
+188,2026-02-04,Porto Alegre,Equioamento 094,Preventiva,Alta,Concluído,3.35,48.0,Técnico 01,Estrutural,2606.57,Fevereiro,2
+189,2026-01-20,Porto Alegre,Equioamento 015,Preditiva,Baixa,Concluído,3.28,37.18,Técnico 01,Elétrica,1125.9,Janeiro,1
+190,2026-01-17,Gravataí,Equioamento 066,Preditiva,Média,Pendente,11.44,18.22,Técnico 03,Mecânica,1821.17,Janeiro,1
+191,2026-08-07,Alvorada,Equioamento 047,Preditiva,Baixa,Em andamento,10.3,52.35,Técnico 02,Elétrica,959.86,Agosto,8
+192,2026-03-06,Guaíba,Equioamento 092,Preventiva,Crítica,Em andamento,10.27,39.66,Técnico 01,Hidráulica,248.34,Março,3
+193,2026-05-04,Gravataí,Equioamento 085,Preventiva,Crítica,Concluído,6.51,21.98,Técnico 01,Elétrica,1128.18,Maio,5
+194,2026-02-20,Guaíba,Equioamento 032,Preventiva,Baixa,Concluído,7.62,11.54,Técnico 05,Estrutural,2879.77,Fevereiro,2
+195,2026-05-27,Alvorada,Equioamento 037,Preventiva,Crítica,Pendente,9.05,43.56,Técnico 01,Mecânica,1597.07,Maio,5
+196,2026-08-27,Alvorada,Equioamento 056,Preditiva,Alta,Em andamento,10.29,20.05,Técnico 03,Estrutural,1828.96,Agosto,8
+197,2026-01-03,Guaíba,Equioamento 058,Preventiva,Alta,Concluído,0.97,13.73,Técnico 05,Eletrônica,2737.62,Janeiro,1
+198,2026-06-08,Alvorada,Equioamento 026,Corretiva,Crítica,Em andamento,1.45,35.02,Técnico 05,Elétrica,2034.95,Junho,6
+199,2026-01-15,Guaíba,Equioamento 004,Preventiva,Baixa,Em andamento,2.51,43.32,Técnico 02,Hidráulica,272.57,Janeiro,1
+200,2026-04-25,Porto Alegre,Equioamento 080,Preventiva,Média,Concluído,2.67,24.86,Técnico 02,Estrutural,386.04,Abril,4
+201,2026-03-20,Guaíba,Equioamento 029,Preventiva,Crítica,Pendente,1.83,42.43,Técnico 04,Elétrica,1427.01,Março,3
+202,2026-08-01,Porto Alegre,Equioamento 075,Corretiva,Média,Em andamento,9.97,45.55,Técnico 02,Eletrônica,2542.42,Agosto,8
+203,2026-06-16,Guaíba,Equioamento 021,Corretiva,Alta,Em andamento,8.0,21.51,Técnico 04,Elétrica,1909.59,Junho,6
+204,2026-05-29,Porto Alegre,Equioamento 095,Preventiva,Alta,Concluído,11.64,34.05,Técnico 02,Mecânica,1384.33,Maio,5
+205,2026-05-06,Gravataí,Equioamento 046,Corretiva,Crítica,Em andamento,3.68,5.75,Técnico 01,Estrutural,2335.94,Maio,5
+206,2026-03-23,Guaíba,Equioamento 069,Preditiva,Baixa,Em andamento,3.3,37.96,Técnico 05,Hidráulica,2439.57,Março,3
+207,2026-08-04,Canoas,Equioamento 032,Preditiva,Crítica,Concluído,6.06,41.07,Técnico 01,Elétrica,202.06,Agosto,8
+208,2026-08-19,Porto Alegre,Equioamento 068,Corretiva,Alta,Em andamento,0.59,11.47,Técnico 04,Mecânica,192.59,Agosto,8
+209,2026-02-19,Gravataí,Equioamento 044,Corretiva,Alta,Pendente,7.52,53.52,Técnico 04,Estrutural,1353.01,Fevereiro,2
+210,2026-09-15,Alvorada,Equioamento 063,Preventiva,Baixa,Pendente,6.77,54.06,Técnico 05,Mecânica,2002.55,Setembro,9
+211,2026-01-14,Alvorada,Equioamento 076,Preventiva,Crítica,Pendente,1.81,37.83,Técnico 02,Eletrônica,1030.02,Janeiro,1
+212,2026-08-10,Gravataí,Equioamento 022,Preditiva,Alta,Pendente,10.72,36.77,Técnico 03,Hidráulica,1628.42,Agosto,8
+213,2026-06-04,Alvorada,Equioamento 010,Preditiva,Baixa,Pendente,1.14,8.67,Técnico 03,Eletrônica,1330.03,Junho,6
+214,2026-08-30,Porto Alegre,Equioamento 002,Corretiva,Baixa,Pendente,7.62,18.31,Técnico 02,Mecânica,688.93,Agosto,8
+215,2026-04-24,Canoas,Equioamento 062,Preditiva,Crítica,Pendente,11.38,40.28,Técnico 03,Hidráulica,329.53,Abril,4
+216,2026-03-19,Guaíba,Equioamento 011,Preditiva,Baixa,Em andamento,11.62,13.07,Técnico 04,Mecânica,2709.67,Março,3
+217,2026-03-05,Porto Alegre,Equioamento 092,Preventiva,Baixa,Em andamento,6.78,40.09,Técnico 02,Elétrica,2473.3,Março,3
+218,2026-05-30,Porto Alegre,Equioamento 037,Preditiva,Média,Concluído,10.75,11.96,Técnico 02,Hidráulica,404.13,Maio,5
+219,2026-02-11,Guaíba,Equioamento 003,Preditiva,Crítica,Pendente,6.67,17.31,Técnico 01,Elétrica,869.74,Fevereiro,2
+220,2026-04-22,Porto Alegre,Equioamento 091,Preventiva,Média,Em andamento,3.94,34.75,Técnico 04,Estrutural,253.24,Abril,4
+221,2026-09-17,Canoas,Equioamento 066,Preventiva,Crítica,Pendente,2.42,24.26,Técnico 03,Estrutural,1156.92,Setembro,9
+222,2026-01-22,Gravataí,Equioamento 071,Preventiva,Baixa,Em andamento,11.0,20.61,Técnico 01,Eletrônica,2388.15,Janeiro,1
+223,2026-02-18,Canoas,Equioamento 088,Preditiva,Baixa,Concluído,4.66,52.15,Técnico 02,Estrutural,1822.76,Fevereiro,2
+224,2026-05-23,Alvorada,Equioamento 068,Preventiva,Baixa,Pendente,11.85,53.5,Técnico 03,Elétrica,2035.83,Maio,5
+225,2026-05-22,Guaíba,Equioamento 019,Preditiva,Média,Concluído,7.43,19.49,Técnico 02,Elétrica,2400.69,Maio,5
+226,2026-03-05,Canoas,Equioamento 086,Corretiva,Baixa,Pendente,5.94,23.03,Técnico 01,Estrutural,365.0,Março,3
+227,2026-02-21,Gravataí,Equioamento 022,Preditiva,Média,Pendente,8.08,40.19,Técnico 03,Hidráulica,581.32,Fevereiro,2
+228,2026-07-20,Canoas,Equioamento 076,Corretiva,Média,Pendente,11.69,40.57,Técnico 02,Estrutural,867.88,Julho,7
+229,2026-01-07,Porto Alegre,Equioamento 026,Preventiva,Crítica,Em andamento,6.78,48.57,Técnico 01,Elétrica,2339.98,Janeiro,1
+230,2026-04-09,Porto Alegre,Equioamento 052,Corretiva,Crítica,Em andamento,8.15,26.67,Técnico 05,Hidráulica,1180.24,Abril,4
+231,2026-06-21,Canoas,Equioamento 095,Preditiva,Média,Concluído,1.68,31.93,Técnico 01,Estrutural,1209.28,Junho,6
+232,2026-05-01,Canoas,Equioamento 026,Corretiva,Média,Em andamento,8.39,25.46,Técnico 04,Eletrônica,1827.73,Maio,5
+233,2026-07-08,Gravataí,Equioamento 012,Preditiva,Crítica,Pendente,1.22,23.83,Técnico 05,Mecânica,1851.61,Julho,7
+234,2026-03-10,Alvorada,Equioamento 080,Preditiva,Crítica,Concluído,11.41,46.34,Técnico 01,Mecânica,525.97,Março,3
+235,2026-07-20,Guaíba,Equioamento 041,Preventiva,Crítica,Pendente,10.01,37.67,Técnico 05,Eletrônica,2451.56,Julho,7
+236,2026-04-17,Porto Alegre,Equioamento 025,Corretiva,Alta,Concluído,5.7,14.76,Técnico 05,Estrutural,935.77,Abril,4
+237,2026-03-14,Porto Alegre,Equioamento 053,Preventiva,Alta,Concluído,4.83,32.03,Técnico 05,Hidráulica,1497.32,Março,3
+238,2026-01-25,Gravataí,Equioamento 087,Corretiva,Alta,Em andamento,7.94,55.37,Técnico 05,Hidráulica,342.18,Janeiro,1
+239,2026-07-31,Canoas,Equioamento 004,Preditiva,Baixa,Em andamento,10.53,19.63,Técnico 03,Mecânica,1954.07,Julho,7
+240,2026-03-20,Alvorada,Equioamento 022,Preventiva,Crítica,Concluído,3.86,20.14,Técnico 04,Mecânica,1941.92,Março,3
+241,2026-04-15,Canoas,Equioamento 002,Corretiva,Crítica,Concluído,4.75,51.42,Técnico 03,Estrutural,473.88,Abril,4
+242,2026-02-13,Alvorada,Equioamento 013,Corretiva,Alta,Concluído,10.99,57.43,Técnico 01,Eletrônica,176.69,Fevereiro,2
+243,2026-05-04,Porto Alegre,Equioamento 047,Corretiva,Crítica,Em andamento,5.85,37.59,Técnico 01,Elétrica,1119.07,Maio,5
+244,2026-02-26,Canoas,Equioamento 022,Corretiva,Baixa,Concluído,9.21,47.2,Técnico 03,Mecânica,2151.85,Fevereiro,2
+245,2026-02-19,Gravataí,Equioamento 057,Preditiva,Alta,Em andamento,10.95,31.74,Técnico 05,Mecânica,1306.3,Fevereiro,2
+246,2026-04-14,Canoas,Equioamento 021,Preditiva,Alta,Concluído,8.75,41.82,Técnico 03,Eletrônica,2966.36,Abril,4
+247,2026-04-16,Canoas,Equioamento 045,Preventiva,Alta,Pendente,8.57,35.86,Técnico 04,Hidráulica,2938.16,Abril,4
+248,2026-07-17,Gravataí,Equioamento 090,Corretiva,Média,Em andamento,9.57,19.91,Técnico 01,Estrutural,1639.85,Julho,7
+249,2026-06-14,Guaíba,Equioamento 001,Corretiva,Média,Concluído,1.47,28.37,Técnico 01,Eletrônica,1248.96,Junho,6
+250,2026-06-16,Canoas,Equioamento 086,Preditiva,Média,Concluído,11.86,41.96,Técnico 04,Eletrônica,849.6,Junho,6
+251,2026-08-17,Guaíba,Equioamento 040,Preventiva,Média,Concluído,1.92,8.75,Técnico 05,Estrutural,1476.9,Agosto,8
+252,2026-04-19,Canoas,Equioamento 094,Preventiva,Alta,Pendente,11.11,39.42,Técnico 01,Estrutural,1595.96,Abril,4
+253,2026-01-30,Alvorada,Equioamento 064,Preventiva,Alta,Em andamento,11.03,54.38,Técnico 04,Elétrica,2915.21,Janeiro,1
+254,2026-05-10,Gravataí,Equioamento 052,Corretiva,Crítica,Em andamento,9.0,43.88,Técnico 04,Elétrica,1229.3,Maio,5
+255,2026-06-08,Guaíba,Equioamento 060,Corretiva,Média,Em andamento,6.35,10.59,Técnico 03,Estrutural,1428.6,Junho,6
+256,2026-01-04,Alvorada,Equioamento 042,Preventiva,Média,Pendente,2.72,35.36,Técnico 01,Mecânica,1300.36,Janeiro,1
+257,2026-07-08,Porto Alegre,Equioamento 001,Corretiva,Crítica,Pendente,6.61,49.83,Técnico 04,Estrutural,1410.86,Julho,7
+258,2026-01-12,Porto Alegre,Equioamento 064,Corretiva,Alta,Em andamento,9.65,31.49,Técnico 04,Estrutural,2081.55,Janeiro,1
+259,2026-05-05,Canoas,Equioamento 040,Preventiva,Alta,Pendente,3.69,39.73,Técnico 01,Mecânica,2978.71,Maio,5
+260,2026-02-02,Porto Alegre,Equioamento 004,Preditiva,Média,Em andamento,3.44,20.22,Técnico 05,Eletrônica,1194.78,Fevereiro,2
+261,2026-04-26,Alvorada,Equioamento 001,Corretiva,Crítica,Em andamento,8.91,48.2,Técnico 01,Hidráulica,2536.6,Abril,4
+262,2026-03-19,Canoas,Equioamento 048,Corretiva,Alta,Em andamento,6.42,18.33,Técnico 04,Estrutural,137.59,Março,3
+263,2026-02-07,Guaíba,Equioamento 022,Corretiva,Crítica,Pendente,7.33,34.56,Técnico 02,Hidráulica,1583.07,Fevereiro,2
+264,2026-07-13,Alvorada,Equioamento 090,Corretiva,Alta,Em andamento,4.16,32.83,Técnico 03,Mecânica,1813.74,Julho,7
+265,2026-04-20,Canoas,Equioamento 073,Preventiva,Baixa,Concluído,6.33,23.65,Técnico 03,Eletrônica,2695.8,Abril,4
+266,2026-01-05,Canoas,Equioamento 008,Corretiva,Média,Pendente,4.51,7.65,Técnico 04,Elétrica,2391.47,Janeiro,1
+267,2026-01-30,Porto Alegre,Equioamento 014,Preventiva,Crítica,Em andamento,3.52,38.76,Técnico 04,Elétrica,982.06,Janeiro,1
+268,2026-03-20,Canoas,Equioamento 020,Corretiva,Média,Concluído,4.49,33.2,Técnico 02,Elétrica,2062.27,Março,3
+269,2026-05-21,Porto Alegre,Equioamento 081,Corretiva,Baixa,Em andamento,2.04,31.16,Técnico 03,Eletrônica,223.71,Maio,5
+270,2026-01-08,Canoas,Equioamento 074,Preditiva,Crítica,Pendente,1.32,40.94,Técnico 05,Hidráulica,2468.58,Janeiro,1
+271,2026-06-04,Canoas,Equioamento 070,Preventiva,Alta,Em andamento,5.04,6.15,Técnico 04,Mecânica,1016.26,Junho,6
+272,2026-08-19,Porto Alegre,Equioamento 070,Corretiva,Média,Concluído,5.85,52.75,Técnico 04,Estrutural,2974.74,Agosto,8
+273,2026-07-07,Porto Alegre,Equioamento 078,Preditiva,Crítica,Concluído,11.44,32.47,Técnico 02,Elétrica,586.5,Julho,7
+274,2026-07-30,Gravataí,Equioamento 073,Corretiva,Baixa,Em andamento,2.3,49.76,Técnico 05,Eletrônica,2436.11,Julho,7
+275,2026-08-19,Gravataí,Equioamento 021,Preventiva,Média,Pendente,9.04,15.34,Técnico 04,Elétrica,227.12,Agosto,8
+276,2026-09-03,Canoas,Equioamento 040,Preventiva,Alta,Concluído,11.15,26.31,Técnico 05,Eletrônica,377.78,Setembro,9
+277,2026-06-05,Alvorada,Equioamento 035,Corretiva,Crítica,Em andamento,6.19,14.87,Técnico 03,Eletrônica,1409.13,Junho,6
+278,2026-07-09,Alvorada,Equioamento 063,Preditiva,Alta,Em andamento,9.89,11.25,Técnico 04,Hidráulica,1757.99,Julho,7
+279,2026-01-18,Canoas,Equioamento 062,Corretiva,Crítica,Pendente,8.33,52.78,Técnico 05,Elétrica,2014.03,Janeiro,1
+280,2026-03-20,Porto Alegre,Equioamento 089,Preditiva,Baixa,Concluído,4.87,8.25,Técnico 03,Eletrônica,2160.54,Março,3
+281,2026-02-16,Porto Alegre,Equioamento 056,Preditiva,Crítica,Em andamento,6.1,48.91,Técnico 02,Eletrônica,2274.92,Fevereiro,2
+282,2026-07-02,Guaíba,Equioamento 012,Preventiva,Baixa,Concluído,8.97,24.61,Técnico 03,Hidráulica,2126.26,Julho,7
+283,2026-07-04,Gravataí,Equioamento 088,Preventiva,Crítica,Em andamento,3.02,45.84,Técnico 04,Estrutural,217.77,Julho,7
+284,2026-01-25,Gravataí,Equioamento 052,Preditiva,Média,Pendente,5.74,43.29,Técnico 03,Eletrônica,1838.85,Janeiro,1
+285,2026-01-07,Porto Alegre,Equioamento 079,Corretiva,Baixa,Concluído,6.19,31.03,Técnico 05,Mecânica,2255.21,Janeiro,1
+286,2026-03-05,Gravataí,Equioamento 058,Preventiva,Baixa,Pendente,10.85,14.22,Técnico 05,Hidráulica,405.36,Março,3
+287,2026-03-08,Alvorada,Equioamento 083,Corretiva,Alta,Concluído,11.67,21.43,Técnico 05,Hidráulica,2927.06,Março,3
+288,2026-01-29,Canoas,Equioamento 035,Preditiva,Baixa,Em andamento,11.04,48.44,Técnico 05,Elétrica,899.12,Janeiro,1
+289,2026-07-16,Alvorada,Equioamento 076,Corretiva,Crítica,Concluído,10.81,47.38,Técnico 04,Mecânica,652.9,Julho,7
+290,2026-03-03,Canoas,Equioamento 019,Preventiva,Baixa,Concluído,7.2,12.45,Técnico 02,Hidráulica,918.02,Março,3
+291,2026-07-09,Canoas,Equioamento 087,Preditiva,Alta,Em andamento,7.51,41.68,Técnico 03,Mecânica,1460.52,Julho,7
+292,2026-06-28,Alvorada,Equioamento 093,Corretiva,Média,Em andamento,7.05,49.36,Técnico 05,Estrutural,1695.58,Junho,6
+293,2026-01-26,Canoas,Equioamento 047,Preventiva,Alta,Concluído,11.74,26.78,Técnico 03,Estrutural,1482.45,Janeiro,1
+294,2026-04-02,Porto Alegre,Equioamento 080,Corretiva,Média,Em andamento,1.02,12.69,Técnico 02,Elétrica,1914.85,Abril,4
+295,2026-05-22,Canoas,Equioamento 052,Corretiva,Crítica,Pendente,5.79,21.65,Técnico 04,Elétrica,627.61,Maio,5
+296,2026-04-09,Guaíba,Equioamento 033,Corretiva,Crítica,Concluído,10.98,12.48,Técnico 01,Eletrônica,2654.31,Abril,4
+297,2026-07-20,Alvorada,Equioamento 030,Corretiva,Baixa,Concluído,3.49,14.68,Técnico 05,Elétrica,2847.41,Julho,7
+298,2026-02-20,Porto Alegre,Equioamento 055,Corretiva,Baixa,Pendente,2.57,10.82,Técnico 04,Eletrônica,2016.49,Fevereiro,2
+299,2026-06-14,Porto Alegre,Equioamento 059,Corretiva,Baixa,Pendente,4.72,31.78,Técnico 04,Estrutural,2240.44,Junho,6
+300,2026-03-10,Guaíba,Equioamento 020,Corretiva,Média,Pendente,3.03,35.53,Técnico 02,Estrutural,537.78,Março,3
+301,2026-02-06,Guaíba,Equioamento 046,Preditiva,Baixa,Concluído,2.36,13.37,Técnico 03,Eletrônica,1951.43,Fevereiro,2
+302,2026-05-17,Guaíba,Equioamento 036,Preditiva,Alta,Em andamento,8.69,47.95,Técnico 04,Mecânica,1415.52,Maio,5
+303,2026-05-12,Guaíba,Equioamento 004,Corretiva,Alta,Pendente,8.46,54.92,Técnico 03,Hidráulica,460.72,Maio,5
+304,2026-01-30,Canoas,Equioamento 021,Preventiva,Crítica,Pendente,3.77,18.61,Técnico 04,Estrutural,320.62,Janeiro,1
+305,2026-03-24,Guaíba,Equioamento 032,Corretiva,Crítica,Em andamento,11.49,26.84,Técnico 03,Eletrônica,1490.68,Março,3
+306,2026-07-15,Porto Alegre,Equioamento 081,Preventiva,Média,Concluído,10.23,29.65,Técnico 01,Hidráulica,457.77,Julho,7
+307,2026-07-21,Alvorada,Equioamento 001,Preditiva,Média,Pendente,5.51,53.4,Técnico 04,Estrutural,1870.1,Julho,7
+308,2026-05-01,Guaíba,Equioamento 091,Preditiva,Alta,Pendente,2.54,29.22,Técnico 05,Elétrica,2120.5,Maio,5
+309,2026-03-03,Canoas,Equioamento 095,Preventiva,Baixa,Em andamento,10.25,41.59,Técnico 05,Hidráulica,143.31,Março,3
+310,2026-01-13,Gravataí,Equioamento 062,Preditiva,Crítica,Pendente,7.27,23.41,Técnico 05,Estrutural,2449.67,Janeiro,1
+311,2026-01-15,Porto Alegre,Equioamento 080,Preventiva,Baixa,Pendente,9.42,51.16,Técnico 05,Estrutural,2403.47,Janeiro,1
+312,2026-02-17,Gravataí,Equioamento 062,Preventiva,Alta,Concluído,2.72,4.33,Técnico 01,Hidráulica,222.1,Fevereiro,2
+313,2026-05-29,Canoas,Equioamento 057,Preventiva,Média,Em andamento,1.34,17.29,Técnico 04,Mecânica,684.65,Maio,5
+314,2026-02-10,Gravataí,Equioamento 072,Corretiva,Média,Pendente,2.75,13.91,Técnico 04,Mecânica,229.12,Fevereiro,2
+315,2026-04-03,Gravataí,Equioamento 036,Preventiva,Baixa,Concluído,8.07,15.65,Técnico 03,Elétrica,1415.33,Abril,4
+316,2026-09-15,Porto Alegre,Equioamento 039,Preditiva,Média,Em andamento,2.21,48.29,Técnico 01,Hidráulica,1027.9,Setembro,9
+317,2026-05-15,Porto Alegre,Equioamento 001,Corretiva,Crítica,Concluído,10.78,53.47,Técnico 03,Estrutural,772.46,Maio,5
+318,2026-02-12,Alvorada,Equioamento 051,Corretiva,Alta,Concluído,2.34,50.28,Técnico 03,Mecânica,1450.22,Fevereiro,2
+319,2026-06-10,Alvorada,Equioamento 080,Preditiva,Baixa,Pendente,9.8,49.71,Técnico 04,Eletrônica,981.4,Junho,6
+320,2026-09-16,Alvorada,Equioamento 059,Corretiva,Baixa,Concluído,10.81,53.62,Técnico 01,Estrutural,1839.31,Setembro,9
+321,2026-07-17,Canoas,Equioamento 051,Preditiva,Crítica,Em andamento,9.72,56.91,Técnico 05,Eletrônica,2323.8,Julho,7
+322,2026-08-19,Gravataí,Equioamento 001,Preditiva,Média,Pendente,2.38,24.11,Técnico 05,Estrutural,2124.33,Agosto,8
+323,2026-04-07,Porto Alegre,Equioamento 083,Preventiva,Média,Pendente,9.55,11.57,Técnico 02,Elétrica,2597.06,Abril,4
+324,2026-07-27,Guaíba,Equioamento 069,Preventiva,Baixa,Em andamento,3.72,31.67,Técnico 04,Estrutural,2016.91,Julho,7
+325,2026-08-09,Gravataí,Equioamento 096,Corretiva,Média,Em andamento,8.03,42.24,Técnico 03,Eletrônica,2934.53,Agosto,8
+326,2026-03-11,Alvorada,Equioamento 088,Preditiva,Crítica,Concluído,6.94,15.23,Técnico 02,Mecânica,1974.63,Março,3
+327,2026-03-29,Gravataí,Equioamento 098,Corretiva,Média,Em andamento,2.66,24.26,Técnico 05,Elétrica,2132.37,Março,3
+328,2026-05-30,Alvorada,Equioamento 010,Corretiva,Alta,Pendente,9.67,41.36,Técnico 05,Mecânica,1420.52,Maio,5
+329,2026-08-15,Guaíba,Equioamento 007,Corretiva,Baixa,Em andamento,1.46,3.54,Técnico 03,Eletrônica,158.4,Agosto,8
+330,2026-06-24,Canoas,Equioamento 014,Preditiva,Baixa,Concluído,4.67,8.56,Técnico 05,Eletrônica,2280.19,Junho,6
+331,2026-09-17,Canoas,Equioamento 035,Preditiva,Baixa,Pendente,11.84,23.97,Técnico 05,Mecânica,1568.72,Setembro,9
+332,2026-07-16,Porto Alegre,Equioamento 080,Preditiva,Baixa,Em andamento,0.76,45.12,Técnico 03,Estrutural,875.9,Julho,7
+333,2026-04-02,Alvorada,Equioamento 051,Preditiva,Média,Pendente,6.05,51.01,Técnico 02,Estrutural,1427.78,Abril,4
+334,2026-01-13,Canoas,Equioamento 054,Preditiva,Baixa,Pendente,11.56,51.59,Técnico 02,Eletrônica,2029.75,Janeiro,1
+335,2026-04-27,Alvorada,Equioamento 005,Preditiva,Baixa,Em andamento,7.63,34.34,Técnico 05,Hidráulica,568.42,Abril,4
+336,2026-02-17,Alvorada,Equioamento 002,Corretiva,Crítica,Em andamento,1.06,40.13,Técnico 05,Mecânica,880.2,Fevereiro,2
+337,2026-07-22,Canoas,Equioamento 090,Preditiva,Alta,Em andamento,10.34,44.95,Técnico 03,Eletrônica,2594.88,Julho,7
+338,2026-06-25,Porto Alegre,Equioamento 073,Preventiva,Alta,Pendente,9.38,54.36,Técnico 05,Hidráulica,447.56,Junho,6
+339,2026-01-04,Guaíba,Equioamento 088,Preditiva,Alta,Concluído,7.37,35.15,Técnico 01,Estrutural,1672.94,Janeiro,1
+340,2026-04-27,Alvorada,Equioamento 011,Preventiva,Baixa,Pendente,9.85,39.47,Técnico 04,Estrutural,2317.84,Abril,4
+341,2026-07-29,Alvorada,Equioamento 088,Preditiva,Baixa,Em andamento,7.17,43.37,Técnico 05,Hidráulica,681.87,Julho,7
+342,2026-09-03,Canoas,Equioamento 085,Preditiva,Alta,Concluído,1.13,32.87,Técnico 04,Eletrônica,548.19,Setembro,9
+343,2026-04-17,Gravataí,Equioamento 018,Corretiva,Média,Concluído,7.37,31.08,Técnico 01,Elétrica,173.09,Abril,4
+344,2026-01-01,Canoas,Equioamento 087,Corretiva,Alta,Em andamento,9.29,28.9,Técnico 05,Estrutural,2475.46,Janeiro,1
+345,2026-04-15,Alvorada,Equioamento 027,Preditiva,Alta,Pendente,2.9,40.82,Técnico 01,Elétrica,2529.57,Abril,4
+346,2026-07-09,Guaíba,Equioamento 006,Corretiva,Média,Concluído,7.68,29.44,Técnico 01,Elétrica,1829.57,Julho,7
+347,2026-01-07,Alvorada,Equioamento 046,Preventiva,Crítica,Concluído,5.27,47.08,Técnico 04,Hidráulica,2042.84,Janeiro,1
+348,2026-01-02,Guaíba,Equioamento 006,Preditiva,Crítica,Em andamento,9.07,47.25,Técnico 01,Hidráulica,2536.89,Janeiro,1
+349,2026-06-29,Guaíba,Equioamento 050,Preditiva,Crítica,Em andamento,3.09,13.14,Técnico 03,Mecânica,2948.44,Junho,6
+350,2026-08-26,Gravataí,Equioamento 063,Preditiva,Crítica,Concluído,2.26,12.69,Técnico 04,Hidráulica,841.8,Agosto,8
+351,2026-08-08,Guaíba,Equioamento 005,Corretiva,Alta,Em andamento,3.0,47.46,Técnico 04,Eletrônica,362.65,Agosto,8
+352,2026-02-07,Alvorada,Equioamento 092,Corretiva,Alta,Em andamento,8.75,34.04,Técnico 03,Eletrônica,1360.13,Fevereiro,2
+353,2026-03-31,Porto Alegre,Equioamento 045,Preventiva,Média,Concluído,7.63,29.65,Técnico 03,Mecânica,2900.39,Março,3
+354,2026-03-04,Gravataí,Equioamento 056,Preventiva,Média,Em andamento,4.01,34.53,Técnico 03,Mecânica,414.86,Março,3
+355,2026-08-14,Guaíba,Equioamento 081,Preditiva,Crítica,Em andamento,4.25,37.49,Técnico 04,Eletrônica,1266.84,Agosto,8
+356,2026-06-19,Guaíba,Equioamento 026,Preditiva,Crítica,Em andamento,6.35,53.18,Técnico 01,Elétrica,2529.18,Junho,6
+357,2026-05-12,Porto Alegre,Equioamento 054,Preventiva,Crítica,Em andamento,8.39,55.87,Técnico 04,Hidráulica,326.34,Maio,5
+358,2026-06-30,Canoas,Equioamento 019,Preventiva,Média,Pendente,2.92,15.4,Técnico 02,Eletrônica,2756.56,Junho,6
+359,2026-03-14,Porto Alegre,Equioamento 036,Preventiva,Baixa,Concluído,1.3,17.03,Técnico 04,Hidráulica,2324.99,Março,3
+360,2026-06-25,Alvorada,Equioamento 081,Preditiva,Média,Concluído,8.22,30.04,Técnico 02,Estrutural,2779.36,Junho,6
+361,2026-01-28,Porto Alegre,Equioamento 041,Corretiva,Média,Em andamento,5.77,13.9,Técnico 01,Estrutural,2351.98,Janeiro,1
+362,2026-08-06,Guaíba,Equioamento 001,Preditiva,Crítica,Pendente,11.44,52.84,Técnico 02,Eletrônica,163.79,Agosto,8
+363,2026-08-19,Guaíba,Equioamento 066,Preventiva,Alta,Em andamento,9.56,23.46,Técnico 04,Elétrica,2539.48,Agosto,8
+364,2026-02-15,Gravataí,Equioamento 003,Preditiva,Média,Concluído,3.31,38.04,Técnico 01,Mecânica,1651.7,Fevereiro,2
+365,2026-08-30,Porto Alegre,Equioamento 050,Preditiva,Baixa,Pendente,1.87,6.56,Técnico 02,Elétrica,483.24,Agosto,8
+366,2026-07-04,Alvorada,Equioamento 096,Preditiva,Alta,Pendente,5.46,9.5,Técnico 05,Eletrônica,1156.42,Julho,7
+367,2026-05-28,Alvorada,Equioamento 067,Corretiva,Baixa,Pendente,4.58,6.9,Técnico 04,Mecânica,2766.34,Maio,5
+368,2026-03-14,Gravataí,Equioamento 063,Preditiva,Alta,Pendente,8.85,24.13,Técnico 05,Estrutural,1000.93,Março,3
+369,2026-08-05,Porto Alegre,Equioamento 087,Preditiva,Crítica,Em andamento,8.53,46.14,Técnico 01,Eletrônica,1696.51,Agosto,8
+370,2026-01-03,Canoas,Equioamento 026,Preventiva,Baixa,Concluído,4.84,15.09,Técnico 03,Mecânica,2835.32,Janeiro,1
+371,2026-01-23,Guaíba,Equioamento 084,Preventiva,Baixa,Concluído,2.96,40.02,Técnico 03,Mecânica,2508.77,Janeiro,1
+372,2026-08-29,Porto Alegre,Equioamento 079,Corretiva,Baixa,Pendente,7.86,45.24,Técnico 04,Elétrica,2787.94,Agosto,8
+373,2026-08-12,Porto Alegre,Equioamento 013,Corretiva,Média,Pendente,6.45,10.3,Técnico 03,Estrutural,537.01,Agosto,8
+374,2026-01-15,Guaíba,Equioamento 058,Preventiva,Alta,Concluído,3.17,49.16,Técnico 01,Eletrônica,295.11,Janeiro,1
+375,2026-04-28,Canoas,Equioamento 032,Corretiva,Baixa,Pendente,11.48,21.06,Técnico 02,Elétrica,1062.59,Abril,4
+376,2026-05-14,Alvorada,Equioamento 073,Preventiva,Alta,Em andamento,10.92,53.94,Técnico 05,Eletrônica,2531.72,Maio,5
+377,2026-02-11,Gravataí,Equioamento 036,Preditiva,Baixa,Em andamento,5.41,36.52,Técnico 03,Elétrica,1735.51,Fevereiro,2
+378,2026-06-18,Guaíba,Equioamento 061,Preventiva,Alta,Em andamento,2.24,24.38,Técnico 05,Mecânica,1764.96,Junho,6
+379,2026-07-04,Alvorada,Equioamento 003,Corretiva,Média,Pendente,5.54,32.08,Técnico 01,Elétrica,1208.6,Julho,7
+380,2026-03-21,Alvorada,Equioamento 082,Corretiva,Crítica,Em andamento,7.29,24.43,Técnico 05,Hidráulica,1965.94,Março,3
+381,2026-09-20,Alvorada,Equioamento 018,Corretiva,Baixa,Pendente,4.52,51.6,Técnico 05,Hidráulica,587.81,Setembro,9
+382,2026-02-15,Porto Alegre,Equioamento 059,Corretiva,Crítica,Pendente,11.96,28.88,Técnico 03,Mecânica,378.75,Fevereiro,2
+383,2026-01-23,Guaíba,Equioamento 053,Corretiva,Baixa,Concluído,3.5,29.45,Técnico 02,Eletrônica,1944.31,Janeiro,1
+384,2026-04-09,Porto Alegre,Equioamento 061,Corretiva,Alta,Pendente,1.07,39.26,Técnico 04,Elétrica,2585.66,Abril,4
+385,2026-01-09,Alvorada,Equioamento 046,Corretiva,Crítica,Em andamento,4.7,36.43,Técnico 04,Elétrica,724.43,Janeiro,1
+386,2026-05-01,Gravataí,Equioamento 078,Corretiva,Crítica,Concluído,10.34,55.07,Técnico 02,Mecânica,2896.73,Maio,5
+387,2026-06-20,Alvorada,Equioamento 039,Preditiva,Alta,Pendente,8.61,36.49,Técnico 05,Elétrica,1857.81,Junho,6
+388,2026-02-28,Guaíba,Equioamento 069,Corretiva,Alta,Concluído,1.24,36.35,Técnico 02,Eletrônica,1100.25,Fevereiro,2
+389,2026-02-07,Canoas,Equioamento 058,Corretiva,Crítica,Pendente,2.81,7.54,Técnico 05,Estrutural,452.55,Fevereiro,2
+390,2026-04-07,Guaíba,Equioamento 032,Preventiva,Crítica,Concluído,2.17,36.72,Técnico 04,Eletrônica,1990.33,Abril,4
+391,2026-06-23,Guaíba,Equioamento 072,Corretiva,Alta,Em andamento,5.65,19.72,Técnico 01,Hidráulica,2507.55,Junho,6
+392,2026-06-12,Alvorada,Equioamento 085,Preventiva,Baixa,Em andamento,10.73,37.99,Técnico 01,Eletrônica,1913.97,Junho,6
+393,2026-05-21,Alvorada,Equioamento 085,Corretiva,Baixa,Concluído,6.28,43.74,Técnico 04,Elétrica,1259.27,Maio,5
+394,2026-07-23,Porto Alegre,Equioamento 019,Preditiva,Crítica,Pendente,7.92,26.81,Técnico 03,Mecânica,1761.05,Julho,7
+395,2026-01-16,Alvorada,Equioamento 072,Corretiva,Crítica,Concluído,1.76,47.36,Técnico 02,Mecânica,2146.91,Janeiro,1
+396,2026-04-03,Porto Alegre,Equioamento 078,Preditiva,Baixa,Em andamento,8.68,28.12,Técnico 03,Estrutural,1114.78,Abril,4
+397,2026-07-24,Gravataí,Equioamento 019,Preditiva,Média,Concluído,1.36,3.2,Técnico 05,Elétrica,2924.98,Julho,7
+398,2026-06-06,Guaíba,Equioamento 005,Corretiva,Média,Concluído,5.63,25.19,Técnico 05,Elétrica,498.34,Junho,6
+399,2026-08-20,Porto Alegre,Equioamento 009,Preventiva,Crítica,Em andamento,10.85,32.34,Técnico 02,Elétrica,2992.92,Agosto,8
+400,2026-03-08,Guaíba,Equioamento 027,Preventiva,Alta,Concluído,3.96,44.18,Técnico 03,Mecânica,1488.21,Março,3
+401,2026-05-11,Guaíba,Equioamento 054,Preditiva,Média,Em andamento,2.02,26.42,Técnico 02,Eletrônica,705.15,Maio,5
+402,2026-02-10,Gravataí,Equioamento 008,Corretiva,Baixa,Concluído,11.71,36.83,Técnico 03,Elétrica,667.92,Fevereiro,2
+403,2026-07-26,Canoas,Equioamento 090,Preditiva,Baixa,Pendente,10.06,21.33,Técnico 04,Elétrica,718.14,Julho,7
+404,2026-03-20,Guaíba,Equioamento 090,Preditiva,Crítica,Pendente,4.92,14.94,Técnico 03,Eletrônica,2666.55,Março,3
+405,2026-08-31,Alvorada,Equioamento 095,Corretiva,Crítica,Concluído,1.76,11.72,Técnico 04,Eletrônica,2738.43,Agosto,8
+406,2026-01-14,Porto Alegre,Equioamento 056,Preditiva,Alta,Concluído,3.6,45.29,Técnico 04,Estrutural,948.48,Janeiro,1
+407,2026-07-08,Canoas,Equioamento 036,Preventiva,Baixa,Pendente,7.68,44.45,Técnico 02,Mecânica,2058.45,Julho,7
+408,2026-07-12,Alvorada,Equioamento 070,Preventiva,Baixa,Concluído,1.84,46.52,Técnico 05,Elétrica,896.16,Julho,7
+409,2026-07-02,Alvorada,Equioamento 027,Corretiva,Média,Concluído,1.05,29.73,Técnico 02,Elétrica,1117.88,Julho,7
+410,2026-02-09,Guaíba,Equioamento 036,Preventiva,Crítica,Em andamento,1.07,25.19,Técnico 01,Hidráulica,2883.92,Fevereiro,2
+411,2026-08-13,Gravataí,Equioamento 018,Preditiva,Crítica,Pendente,2.7,26.62,Técnico 05,Estrutural,1522.21,Agosto,8
+412,2026-07-27,Guaíba,Equioamento 081,Preditiva,Média,Concluído,2.55,32.43,Técnico 05,Mecânica,2521.77,Julho,7
+413,2026-07-25,Gravataí,Equioamento 092,Corretiva,Crítica,Concluído,8.39,40.34,Técnico 02,Hidráulica,2682.08,Julho,7
+414,2026-06-10,Canoas,Equioamento 060,Corretiva,Baixa,Em andamento,8.57,39.41,Técnico 03,Elétrica,655.28,Junho,6
+415,2026-08-05,Guaíba,Equioamento 035,Preditiva,Crítica,Em andamento,3.76,26.55,Técnico 01,Elétrica,589.26,Agosto,8
+416,2026-06-13,Gravataí,Equioamento 078,Preditiva,Média,Pendente,3.54,11.74,Técnico 02,Estrutural,401.35,Junho,6
+417,2026-03-02,Guaíba,Equioamento 056,Preventiva,Alta,Pendente,11.89,25.02,Técnico 02,Estrutural,1075.21,Março,3
+418,2026-06-03,Gravataí,Equioamento 053,Preditiva,Alta,Pendente,6.07,36.94,Técnico 02,Elétrica,532.61,Junho,6
+419,2026-02-11,Gravataí,Equioamento 028,Preditiva,Baixa,Pendente,2.82,22.35,Técnico 04,Elétrica,391.54,Fevereiro,2
+420,2026-04-11,Gravataí,Equioamento 078,Preditiva,Alta,Pendente,6.24,28.36,Técnico 03,Mecânica,591.07,Abril,4
+421,2026-01-19,Gravataí,Equioamento 029,Corretiva,Alta,Pendente,2.87,26.57,Técnico 04,Mecânica,903.43,Janeiro,1
+422,2026-05-25,Gravataí,Equioamento 078,Preventiva,Baixa,Concluído,4.08,19.18,Técnico 01,Elétrica,1552.98,Maio,5
+423,2026-07-29,Porto Alegre,Equioamento 003,Preventiva,Crítica,Pendente,6.69,52.52,Técnico 05,Mecânica,1037.72,Julho,7
+424,2026-05-21,Porto Alegre,Equioamento 074,Corretiva,Baixa,Concluído,2.75,25.54,Técnico 02,Eletrônica,2409.05,Maio,5
+425,2026-06-16,Guaíba,Equioamento 083,Preditiva,Alta,Pendente,7.37,30.19,Técnico 02,Elétrica,2067.79,Junho,6
+426,2026-03-17,Gravataí,Equioamento 058,Preventiva,Média,Em andamento,11.81,44.04,Técnico 01,Estrutural,1134.31,Março,3
+427,2026-02-24,Porto Alegre,Equioamento 033,Corretiva,Crítica,Concluído,4.6,8.44,Técnico 04,Estrutural,978.19,Fevereiro,2
+428,2026-04-14,Alvorada,Equioamento 052,Preditiva,Alta,Em andamento,5.69,25.12,Técnico 05,Eletrônica,2812.08,Abril,4
+429,2026-07-20,Alvorada,Equioamento 070,Preditiva,Alta,Em andamento,6.05,19.2,Técnico 05,Eletrônica,1752.06,Julho,7
+430,2026-05-10,Alvorada,Equioamento 056,Corretiva,Média,Concluído,1.78,14.14,Técnico 04,Hidráulica,1307.21,Maio,5
+431,2026-05-03,Alvorada,Equioamento 054,Corretiva,Média,Concluído,4.99,21.12,Técnico 04,Eletrônica,2501.05,Maio,5
+432,2026-06-01,Porto Alegre,Equioamento 043,Preditiva,Média,Em andamento,5.71,48.41,Técnico 01,Eletrônica,1778.07,Junho,6
+433,2026-03-10,Gravataí,Equioamento 042,Corretiva,Alta,Concluído,8.33,49.09,Técnico 01,Estrutural,2009.65,Março,3
+434,2026-05-11,Guaíba,Equioamento 041,Corretiva,Alta,Em andamento,11.6,30.79,Técnico 05,Elétrica,1434.22,Maio,5
+435,2026-04-02,Alvorada,Equioamento 081,Corretiva,Média,Em andamento,4.08,36.16,Técnico 01,Elétrica,1826.83,Abril,4
+436,2026-04-29,Porto Alegre,Equioamento 022,Preventiva,Baixa,Em andamento,8.7,49.7,Técnico 01,Eletrônica,861.18,Abril,4
+437,2026-07-22,Alvorada,Equioamento 068,Corretiva,Baixa,Em andamento,6.85,50.48,Técnico 05,Eletrônica,1814.74,Julho,7
+438,2026-08-15,Guaíba,Equioamento 026,Corretiva,Alta,Em andamento,11.79,23.88,Técnico 02,Eletrônica,2424.17,Agosto,8
+439,2026-05-12,Guaíba,Equioamento 036,Preventiva,Média,Pendente,3.08,27.02,Técnico 01,Hidráulica,2987.79,Maio,5
+440,2026-04-28,Porto Alegre,Equioamento 002,Preventiva,Baixa,Pendente,3.81,37.85,Técnico 01,Elétrica,138.33,Abril,4
+441,2026-07-13,Porto Alegre,Equioamento 049,Corretiva,Alta,Pendente,0.71,48.67,Técnico 04,Hidráulica,2528.45,Julho,7
+442,2026-08-15,Guaíba,Equioamento 044,Preditiva,Crítica,Pendente,2.97,7.66,Técnico 05,Mecânica,522.78,Agosto,8
+443,2026-08-06,Alvorada,Equioamento 012,Preditiva,Crítica,Pendente,6.33,48.23,Técnico 02,Eletrônica,532.48,Agosto,8
+444,2026-01-10,Guaíba,Equioamento 027,Preditiva,Média,Em andamento,2.52,33.53,Técnico 03,Estrutural,2756.04,Janeiro,1
+445,2026-09-07,Alvorada,Equioamento 067,Corretiva,Média,Em andamento,4.15,19.47,Técnico 05,Hidráulica,2461.93,Setembro,9
+446,2026-03-06,Canoas,Equioamento 069,Corretiva,Alta,Pendente,3.25,36.14,Técnico 05,Elétrica,2993.2,Março,3
+447,2026-08-13,Gravataí,Equioamento 090,Corretiva,Alta,Em andamento,1.02,34.0,Técnico 04,Elétrica,145.11,Agosto,8
+448,2026-06-18,Alvorada,Equioamento 099,Preventiva,Média,Concluído,8.75,22.04,Técnico 03,Eletrônica,2389.93,Junho,6
+449,2026-09-17,Alvorada,Equioamento 027,Corretiva,Baixa,Concluído,11.5,56.01,Técnico 05,Elétrica,2741.56,Setembro,9
+450,2026-02-25,Gravataí,Equioamento 051,Preditiva,Média,Em andamento,4.68,9.24,Técnico 02,Eletrônica,950.26,Fevereiro,2
+451,2026-06-19,Alvorada,Equioamento 097,Preditiva,Alta,Concluído,4.01,21.42,Técnico 05,Mecânica,1512.93,Junho,6
+452,2026-01-09,Guaíba,Equioamento 027,Corretiva,Baixa,Concluído,10.78,52.44,Técnico 02,Mecânica,1958.21,Janeiro,1
+453,2026-08-04,Porto Alegre,Equioamento 100,Preditiva,Baixa,Pendente,5.32,40.95,Técnico 04,Mecânica,487.82,Agosto,8
+454,2026-01-03,Alvorada,Equioamento 019,Corretiva,Média,Pendente,6.78,29.04,Técnico 02,Estrutural,2856.38,Janeiro,1
+455,2026-02-04,Alvorada,Equioamento 080,Preditiva,Alta,Pendente,3.72,44.01,Técnico 01,Hidráulica,1573.08,Fevereiro,2
+456,2026-06-30,Canoas,Equioamento 086,Preventiva,Média,Concluído,6.79,11.1,Técnico 05,Eletrônica,2421.65,Junho,6
+457,2026-05-24,Gravataí,Equioamento 096,Corretiva,Média,Pendente,6.07,41.18,Técnico 01,Elétrica,2270.0,Maio,5
+458,2026-05-21,Alvorada,Equioamento 068,Preditiva,Média,Pendente,9.47,30.92,Técnico 05,Elétrica,590.51,Maio,5
+459,2026-03-11,Porto Alegre,Equioamento 080,Preditiva,Baixa,Pendente,5.01,50.85,Técnico 02,Estrutural,1488.29,Março,3
+460,2026-03-08,Canoas,Equioamento 095,Preditiva,Crítica,Concluído,3.31,36.48,Técnico 03,Estrutural,1675.98,Março,3
+461,2026-07-13,Alvorada,Equioamento 006,Preditiva,Média,Em andamento,5.01,30.43,Técnico 03,Eletrônica,1858.97,Julho,7
+462,2026-08-08,Guaíba,Equioamento 097,Preventiva,Média,Concluído,9.37,43.74,Técnico 04,Elétrica,138.47,Agosto,8
+463,2026-09-16,Alvorada,Equioamento 043,Corretiva,Média,Concluído,11.41,47.52,Técnico 01,Estrutural,1770.19,Setembro,9
+464,2026-05-02,Guaíba,Equioamento 010,Preditiva,Crítica,Em andamento,3.55,44.82,Técnico 03,Eletrônica,2999.96,Maio,5
+465,2026-06-26,Gravataí,Equioamento 012,Corretiva,Média,Concluído,11.28,41.6,Técnico 03,Mecânica,1929.22,Junho,6
+466,2026-07-17,Porto Alegre,Equioamento 052,Corretiva,Média,Concluído,2.6,13.09,Técnico 02,Hidráulica,1585.33,Julho,7
+467,2026-03-21,Gravataí,Equioamento 067,Preditiva,Crítica,Concluído,10.22,28.43,Técnico 05,Estrutural,1187.45,Março,3
+468,2026-08-07,Gravataí,Equioamento 090,Preventiva,Alta,Pendente,2.71,8.63,Técnico 03,Eletrônica,171.32,Agosto,8
+469,2026-06-03,Porto Alegre,Equioamento 045,Corretiva,Alta,Concluído,2.64,9.73,Técnico 02,Mecânica,1653.54,Junho,6
+470,2026-04-13,Porto Alegre,Equioamento 032,Preditiva,Crítica,Em andamento,3.4,17.21,Técnico 05,Hidráulica,1821.24,Abril,4
+471,2026-01-07,Gravataí,Equioamento 099,Corretiva,Alta,Pendente,9.08,14.67,Técnico 04,Eletrônica,316.77,Janeiro,1
+472,2026-07-07,Gravataí,Equioamento 098,Corretiva,Crítica,Concluído,3.19,12.05,Técnico 03,Elétrica,432.31,Julho,7
+473,2026-01-23,Porto Alegre,Equioamento 056,Preditiva,Crítica,Concluído,2.94,14.74,Técnico 05,Eletrônica,1447.96,Janeiro,1
+474,2026-05-30,Guaíba,Equioamento 075,Preventiva,Crítica,Pendente,7.0,42.04,Técnico 02,Estrutural,186.66,Maio,5
+475,2026-06-25,Alvorada,Equioamento 089,Preditiva,Média,Concluído,9.99,13.33,Técnico 05,Hidráulica,583.28,Junho,6
+476,2026-08-12,Gravataí,Equioamento 018,Preditiva,Média,Concluído,8.22,15.04,Técnico 02,Elétrica,2344.43,Agosto,8
+477,2026-02-28,Canoas,Equioamento 085,Preventiva,Crítica,Em andamento,1.75,10.11,Técnico 01,Mecânica,1757.47,Fevereiro,2
+478,2026-03-20,Alvorada,Equioamento 023,Corretiva,Alta,Em andamento,0.91,44.76,Técnico 01,Hidráulica,278.78,Março,3
+479,2026-07-15,Canoas,Equioamento 024,Preditiva,Média,Pendente,4.02,27.36,Técnico 05,Eletrônica,2326.01,Julho,7
+480,2026-04-09,Gravataí,Equioamento 032,Preventiva,Média,Concluído,8.02,26.31,Técnico 01,Estrutural,2043.35,Abril,4
+481,2026-04-09,Porto Alegre,Equioamento 058,Preditiva,Média,Pendente,5.73,52.14,Técnico 04,Elétrica,897.63,Abril,4
+482,2026-06-10,Gravataí,Equioamento 041,Corretiva,Crítica,Em andamento,2.93,49.07,Técnico 02,Mecânica,2449.88,Junho,6
+483,2026-09-14,Guaíba,Equioamento 039,Preditiva,Média,Concluído,1.14,23.94,Técnico 01,Hidráulica,725.33,Setembro,9
+484,2026-09-07,Canoas,Equioamento 052,Corretiva,Baixa,Em andamento,11.22,39.61,Técnico 04,Hidráulica,1517.42,Setembro,9
+485,2026-05-23,Canoas,Equioamento 064,Preditiva,Baixa,Em andamento,3.91,28.78,Técnico 05,Hidráulica,792.08,Maio,5
+486,2026-03-08,Guaíba,Equioamento 072,Preventiva,Média,Pendente,6.16,30.72,Técnico 02,Elétrica,2820.77,Março,3
+487,2026-05-05,Alvorada,Equioamento 051,Preventiva,Alta,Concluído,10.17,20.42,Técnico 04,Elétrica,904.71,Maio,5
+488,2026-06-17,Porto Alegre,Equioamento 038,Corretiva,Baixa,Concluído,6.41,42.36,Técnico 02,Mecânica,2177.01,Junho,6
+489,2026-07-22,Porto Alegre,Equioamento 064,Preditiva,Baixa,Em andamento,0.77,38.52,Técnico 04,Hidráulica,1216.03,Julho,7
+490,2026-04-08,Gravataí,Equioamento 041,Preventiva,Baixa,Pendente,7.89,44.01,Técnico 05,Mecânica,1579.64,Abril,4
+491,2026-08-05,Alvorada,Equioamento 045,Preventiva,Crítica,Pendente,6.25,16.22,Técnico 03,Estrutural,1314.59,Agosto,8
+492,2026-08-15,Guaíba,Equioamento 057,Preditiva,Baixa,Pendente,4.64,32.68,Técnico 05,Estrutural,1751.92,Agosto,8
+493,2026-02-27,Alvorada,Equioamento 048,Preventiva,Crítica,Em andamento,3.62,10.29,Técnico 02,Elétrica,2209.46,Fevereiro,2
+494,2026-03-19,Gravataí,Equioamento 036,Corretiva,Crítica,Em andamento,0.99,36.52,Técnico 04,Estrutural,113.56,Março,3
+495,2026-02-16,Alvorada,Equioamento 049,Preditiva,Alta,Em andamento,7.01,14.89,Técnico 05,Mecânica,2142.91,Fevereiro,2
+496,2026-04-25,Canoas,Equioamento 051,Preditiva,Alta,Em andamento,9.67,30.7,Técnico 05,Eletrônica,827.78,Abril,4
+497,2026-09-16,Porto Alegre,Equioamento 067,Corretiva,Crítica,Concluído,10.41,17.83,Técnico 03,Hidráulica,259.23,Setembro,9
+498,2026-04-23,Canoas,Equioamento 080,Preventiva,Média,Concluído,9.91,26.47,Técnico 04,Hidráulica,2728.57,Abril,4
+499,2026-09-12,Porto Alegre,Equioamento 022,Preditiva,Crítica,Pendente,7.86,51.99,Técnico 05,Hidráulica,2464.93,Setembro,9
+500,2026-05-06,Canoas,Equioamento 095,Preventiva,Baixa,Pendente,1.83,4.33,Técnico 01,Estrutural,164.32,Maio,5

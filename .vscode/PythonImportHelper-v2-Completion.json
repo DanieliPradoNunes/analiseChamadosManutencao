@@ -1,0 +1,143 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "pastaDados",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "pastaDados = Path('dados')\npastaDados.mkdir(exist_ok=True)\n# Listas utilizadas para gerar os dados\nunidades = [\n    \"Guaíba\",\n    \"Porto Alegre\",\n    \"Canoas\",\n    \"Gravataí\",\n    \"Alvorada\"\n]",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "unidades",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "unidades = [\n    \"Guaíba\",\n    \"Porto Alegre\",\n    \"Canoas\",\n    \"Gravataí\",\n    \"Alvorada\"\n]\ntiposManutencao = [\n    \"Preventiva\",\n    \"Corretiva\",",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "tiposManutencao",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "tiposManutencao = [\n    \"Preventiva\",\n    \"Corretiva\",\n    \"Preditiva\"\n]\nprioridades = [\n    \"Baixa\",\n    \"Média\",\n    \"Alta\",\n    \"Crítica\"",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "prioridades",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "prioridades = [\n    \"Baixa\",\n    \"Média\",\n    \"Alta\",\n    \"Crítica\"\n]\nstatusChamado = [\n    \"Concluído\",\n    \"Em andamento\",\n    \"Pendente\"",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "statusChamado",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "statusChamado = [\n    \"Concluído\",\n    \"Em andamento\",\n    \"Pendente\"\n]\ncategoriasProblema = [\n    \"Elétrica\",\n    \"Mecânica\",\n    \"Hidráulica\",\n    \"Eletrônica\",",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "categoriasProblema",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "categoriasProblema = [\n    \"Elétrica\",\n    \"Mecânica\",\n    \"Hidráulica\",\n    \"Eletrônica\",\n    \"Estrutural\"\n]\ntecnicos = [\n    \"Técnico 01\",\n    \"Técnico 02\",",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "tecnicos",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "tecnicos = [\n    \"Técnico 01\",\n    \"Técnico 02\",\n    \"Técnico 03\",\n    \"Técnico 04\",\n    \"Técnico 05\"\n]\nregistros = []\ndataInicial = datetime(2026, 1, 1)\nfor numero in range(1, 501):",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "registros",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "registros = []\ndataInicial = datetime(2026, 1, 1)\nfor numero in range(1, 501):\n    dataAbertura = dataInicial + timedelta (\n        days=random.randint(0, 262)\n    )\n    tipo = random.choice(tiposManutencao)\n    prioridade = random.choice(prioridades)\n    status = random.choice(statusChamado)\n    tempoAtendimento = round(random.uniform(0.5, 12), 2)",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "dataInicial",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "dataInicial = datetime(2026, 1, 1)\nfor numero in range(1, 501):\n    dataAbertura = dataInicial + timedelta (\n        days=random.randint(0, 262)\n    )\n    tipo = random.choice(tiposManutencao)\n    prioridade = random.choice(prioridades)\n    status = random.choice(statusChamado)\n    tempoAtendimento = round(random.uniform(0.5, 12), 2)\n    tempoResolucao = round(",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "df = pd.DataFrame(registros)\ncaminhoArquivo = pastaDados / 'chamadosManutencao.csv' \ndf.to_csv(caminhoArquivo, index=False, encoding='utf-8-sig')\nprint(f\"Base criada com sucesso: {caminhoArquivo}\")\nprint(f\"Quantidade de registros: {len(df)}\")\nprint(\"\\nPrimeiros registros:\")\nprint(df.head())",
+        "detail": "gerarDados",
+        "documentation": {}
+    },
+    {
+        "label": "caminhoArquivo",
+        "kind": 5,
+        "importPath": "gerarDados",
+        "description": "gerarDados",
+        "peekOfCode": "caminhoArquivo = pastaDados / 'chamadosManutencao.csv' \ndf.to_csv(caminhoArquivo, index=False, encoding='utf-8-sig')\nprint(f\"Base criada com sucesso: {caminhoArquivo}\")\nprint(f\"Quantidade de registros: {len(df)}\")\nprint(\"\\nPrimeiros registros:\")\nprint(df.head())",
+        "detail": "gerarDados",
+        "documentation": {}
+    }
+]
